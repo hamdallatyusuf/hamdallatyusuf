@@ -26,13 +26,10 @@ import "./styles.css";
 const siteProps = {
   name: "Hamdallat Taiwo YUSUF",
   title: "Senior Lecturer, University of Ilorin",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "hamdallatyusuf@unilorin.edu.ng",
+  gitHub: "hamdallatyusuf",
+  linkedIn: "hamdallat-taiwo-yusuf-0b946262",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
 };
 
 const primaryColor = "#4E567E";
