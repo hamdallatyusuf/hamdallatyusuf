@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Hamdallat Taiwo YUSUF",
-  title: "Senior Lecturer, University of Ilorin",
+  title: "Associate Professor, University of Ilorin",
   email: "hamdallatyusuf@unilorin.edu.ng",
   gitHub: "hamdallatyusuf",
   linkedIn: "hamdallat-taiwo-yusuf-0b946262",
